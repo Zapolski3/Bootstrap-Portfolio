@@ -1,6 +1,6 @@
 
 body {
-    background-image: url("assets/images/ep_naturalwhite.png");
+    background-image: url("../images/ep_naturalwhite.png");
 }
 
 .border-bottom {
@@ -31,3 +31,26 @@ h2 {
     text-align:center;
     line-height: 90px;
     border-top:6px solid #4aaaa5;}
+
+.container {
+    background-color:white;
+}
+p {
+    margin-bottom:100px;
+}
+
+.img1, .img2, .img3, .img4, .img5 {
+    position:relative;
+        top:-60px;
+        left:29px;
+        height:40px;
+        width:301px;
+        color:white;
+        background-color:#4aaaa5;
+        text-align:center;
+        padding-top:10px;
+}
+.botton {
+    background-color:#4aaaa5;
+    margin-bottom:10px;
+}
