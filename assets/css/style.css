@@ -1,3 +1,8 @@
+
+body {
+    background-image: url("assets/images/ep_naturalwhite.png");
+}
+
 .border-bottom {
 border-bottom:2px solid #cccccc;
 }
