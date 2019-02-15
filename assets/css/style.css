@@ -1,0 +1,28 @@
+.border-bottom {
+border-bottom:2px solid #cccccc;
+}
+
+
+h1 {
+        color:white;
+        font-size:32px;
+        background-color:#4aaaa5;
+        padding:20px;
+        margin:-8px 0px -8px -13px;
+}
+
+h2 {
+    color:#4aaaa5;
+    font-size:32px;}
+
+.footer {
+    color:white;
+    position:fixed;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    height:60px;
+    background-color:#666666;
+    text-align:center;
+    line-height: 90px;
+    border-top:6px solid #4aaaa5;}
